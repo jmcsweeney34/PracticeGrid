@@ -28,7 +28,7 @@ if 0
     axis square;
 end
 
-easgygrid; 
+easygrid; 
 if 0
     plot(lon_rho,lat_rho,'r.');
     plot(lon_u,lat_u,'bv');
